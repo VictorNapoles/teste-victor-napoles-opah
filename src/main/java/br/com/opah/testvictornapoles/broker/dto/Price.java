@@ -1,4 +1,4 @@
-package br.com.opah.testvictornapoles.dto;
+package br.com.opah.testvictornapoles.broker.dto;
 
 public class Price {
 	private Double adult;
